@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/pomedl/pome_yolo/images/train
+val: /content/drive/MyDrive/pomedl/pome_yolo/images/val
+test: /content/drive/MyDrive/pomedl/pome_yolo/images/test
+
+nc: 5
+names: ["Alternaria", "Anthracnose", "Bacterial_Blight", "Cercospora", "Healthy"]
